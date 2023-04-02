@@ -31,6 +31,9 @@ the hugo theme is photophobia. a skeleton. removed a few things in the layout pa
 - i like being able to git clone the whole folder of text and have all the images seperate. 
 - i like how the github actions builds the hugo site quickly. 
 - i like that the whole thing was built on a pi zero without a gui. most of the time remoted in.
+
+![vim browser + twm](https://i.imgur.com/JCyECuC.png)
+
 - i like that it gets around the admin priveleges on the other computer thats way too locked down. cant install anything or do the updates. the pages cant load https warns how your unsafe and to proceed with caution. 
 - breathes new life into the computer that was otherwise gathering dust.
 - i like emmet shortcuts on textastic and the auto pairs. ive got vim plugoms to do that on the pi also.
