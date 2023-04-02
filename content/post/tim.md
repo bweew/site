@@ -21,6 +21,9 @@ You can also feel where the home row landmarks are thanks to the tactile buttons
 
 ![key2](https://i.imgur.com/vcRMOmP.jpg) 
 
-the keyboard fits in my pocket
+	"the keyboard fits in my pocket"
+	
+oh, i also use ibis-paint to combine photos and add text.
 
 ![key3](https://i.imgur.com/4BX0bBw.jpg) 
+so its all just markdown
