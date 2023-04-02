@@ -15,4 +15,4 @@ date: 2023-04-02T04:23:16-04:00
 - the url and alt are in parenthesis
 - the link is in parenthesis
 
-'''[![A mushroom-head robot](/assets/images/codey.jpg 'Codey the Codecademy mascot')](https://codecademy.com)'''
+    '''[![A mushroom-head robot](/assets/images/codey.jpg 'Codey the Codecademy mascot')](https://codecademy.com)'''
