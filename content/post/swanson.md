@@ -16,3 +16,7 @@ date: 2023-04-02T04:23:16-04:00
 - the link is in parenthesis
 
     '''code block hope it works '''
+    
+## how to close vim split
+- use the :only command
+- ctrl-w o
