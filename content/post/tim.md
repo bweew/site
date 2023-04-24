@@ -29,7 +29,7 @@ oh, i also use ibis-paint to combine photos and add text.
 so its all just markdown.
 the hugo theme is photophobia. a skeleton. removed a few things in the layout partials. 
 - i like being able to git clone the whole folder of text and have all the images seperate. 
-
+## used hugo shortcode to embed youtube video
 {{< youtube QuY7ztfBdKE >}}
 
 - i like how the github actions builds the hugo site quickly. 
