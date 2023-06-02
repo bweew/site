@@ -3,5 +3,18 @@ languageCode = 'en-us'
 title = 'zesty sauce'
 theme = 'photophobia'
 enableGitInfo = true
-[frontmatter]
-lastmod = [':git', ':fileModTime']
+frontmatter:
+  date:
+  - date
+  - publishDate
+  - lastmod
+  expiryDate:
+  - expiryDate
+  lastmod:
+  - :git
+  - lastmod
+  - date
+  - publishDate
+  publishDate:
+  - publishDate
+  - date
