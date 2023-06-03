@@ -9,3 +9,4 @@ _ shift m toggles stretch/cut
 _ shift scroll chamge mixer/channel position
 _ ctrl shift h and esc switch window
 - [bootstrap react nav bar](https://youtu.be/DTPERO1bl7w)
+bruh
