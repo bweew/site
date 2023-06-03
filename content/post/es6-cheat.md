@@ -1,7 +1,8 @@
 ---
 title: es6 cheat sheet
-date: 2023-06-02T04:23:16-04:00
+date: 2023-06-02
 ---
 [es6 cheat sheet](https://melanieseltzer.github.io/es6-all-the-things/)
-- figure out how to fix dates in hugo
-- rewatch hugo tutorials again arg.
+- 2023-06-01 thats the format
+- year month day
+![](https://i.imgur.com/LLt9Icv.jpg)
