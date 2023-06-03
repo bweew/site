@@ -2,4 +2,4 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'zesty sauce'
 theme = 'photophobia'
-
+Paginate: 3

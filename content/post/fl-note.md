@@ -1,6 +1,6 @@
 ---
 title: "fl tricks"
-date: 2023-04-02
+date: 2023-04-03
 ---
 
 ## fl studio tricks
