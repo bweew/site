@@ -7,3 +7,5 @@ date: 2023-06-02
 - year month day
 
 ![capy](https://i.imgur.com/LLt9Icv.jpg)
+- learn react!
+find a cheat sheet
