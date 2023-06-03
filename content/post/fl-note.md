@@ -9,3 +9,4 @@ _ shift m toggles stretch/cut
 _ shift scroll chamge mixer/channel position
 _ ctrl shift h and esc switch window
 
+edited to the 3rd
