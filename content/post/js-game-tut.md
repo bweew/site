@@ -1,7 +1,7 @@
 ---
 title: javascript game tutorials
 date: 2023-06-06
-tags: js
+tags: javascript
 categories: tutorials
 ---
 ## javascript game tutorials
