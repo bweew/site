@@ -2,7 +2,7 @@
 title: javascript game tutorials
 date: 2023-06-06
 tags: ["javascript"]
-categories: ["video","tutorial"]
+categories: ["tutorial"]
 ---
 ## javascript game tutorials
 [dino game](https://youtu.be/bG2BmmYr9NQ)
